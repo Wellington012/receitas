@@ -1,2 +1,2 @@
 # receitas
- primeiro repositorio no GitHub
+ repositorio2
